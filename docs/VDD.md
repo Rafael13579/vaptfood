@@ -32,7 +32,7 @@ A auditoria física (PCA) realizada com a ferramenta de CLI Syft extraiu a árvo
 
 ### A. Metadados do Ecossistema Mapeado
 * **Tipo de Projeto:** Aplicação Full-Stack (Microsserviços no Backend e Aplicativo Mobile)
-* **Escopo do Escaneamento:** `/src/mobile-app/package-lock.json` e `/vaptfood-backend/package.json`
+* **Escopo do Escaneamento:** `/src/mobile-app/package-lock.json` e `/src/backend/package.json`
 
 ### B. Principais Itens de Configuração Abstratos (Dependências Diretas)
 Os seguintes ICs externos compõem o núcleo estável da aplicação:
