@@ -3,7 +3,7 @@
 ## 1. Identificação da Baseline
 Este documento consolida a identificação e auditoria física da linha de base atual do projeto VaptFood, em conformidade com o Plano de Gerência de Configuração do software.
 
-* **Identificador Único da Baseline:** BL-03 (Release de Produto)
+* **Identificador Único da Baseline:** BL-02
 * **Tag do Repositório:** `v1.1`
 * **Branch de Auditoria:** `dev` (atualizada com a `main`)
 * **Data da Baseline:** 18 de Junho de 2026
