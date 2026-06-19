@@ -21,7 +21,7 @@ Abaixo está o mapeamento dos commits e das solicitações de mudança atendidas
 | Hash do Commit / ID | Tipo de Alteração | Descrição da Modificação | Itens de Configuração (ICs) Afetados | Rastreabilidade (Jira/Trello) | Status da Auditoria     |
 | :--- | :--- | :--- | :--- | :--- |:------------------------|
 | `00be796` | Merge | Incorporação da branch 'main' na branch 'dev' para consolidação da release| Todo o repositório | Geral da Sprint | Aprovado (CCB)          |
-| `ded25a7` / `1c37560` | Chore | Adicionado arquivo `.gitignore`, `package-lock.json` e o inventário SBOM gerado pelo Syft | `.gitignore`, `sbom.json` | Ticket `VF-02` | Aprovado (PCA) |
+| `ded25a7` / `1c37560` | Chore | Adicionado arquivo `.gitignore`, `src/backend/package-lock.json`, `src/mobile-app/package-lock.json` e o inventário SBOM gerado pelo Syft | `.gitignore`, `sbom.json`, `src/backend/package-lock.json`, `src/mobile-app/package-lock.json` | Ticket `VF-02` | Aprovado (PCA) |
 | `e38ab6e` / `cd5a286` | Feat | Implantação da estrutura inicial do repositório contendo os módulos do ecossistema | Raiz do projeto, `/src` | Ticket `VF-01` | Aprovado (FCA) |
 | `7b4a6db` | Docs | Criação e publicação do Plano de Gerência de Configuração formal da equipe | `docs/Plano de Gerência de Configuração - Parte 1 - Food Delivery.pdf` | Documentação | Aprovado (CCB) |
 
